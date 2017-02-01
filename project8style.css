@@ -1,0 +1,30 @@
+h1 {font-weight: bold;
+           color: green;
+           font-size: 
+           text-align:center;
+           font-family: Verdana;}
+           
+     
+table { 
+      color: black;
+      font-weight: bold;
+      text-align: center;
+      font-family: Verdana;
+      border-collapse: collapse;
+      margin: auto;}
+
+.tablerow2 {color: red;}
+ 
+.tablerow3 {color: blue;}
+     
+.tablerow4 {color: black;}
+
+th {	
+border:2px solid black;
+      background-color:yellow;
+      }
+   
+td {
+border:2px dotted blue;
+       background-color:white;
+       }
